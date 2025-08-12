@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>AbandondedSettlementUnabandoned</name>
+  <author>NinjaBobtail</author>
+  <supportedVersions>
+    <li>1.6</li>
+  </supportedVersions>
+  <packageId>NinjaBobtail.AbandondedSettlementUnabandoned</packageId>
+  <description>This is an attempt to allow you to get an unused gravcore quest</description>
+</ModMetaData>
